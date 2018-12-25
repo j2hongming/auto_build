@@ -1,2 +1,2 @@
-redis-server --daemonize yes
+#redis-server --daemonize yes
 python /web/app.py
